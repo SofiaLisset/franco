@@ -12,7 +12,7 @@ class Vehiculo{
             Posicion = new Coordenada (0,0);
 
         }
-
+	//Falta Constructor sobrecargado :)
 
 }
 
