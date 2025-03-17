@@ -16,7 +16,7 @@ class Coordenada{                               /*Clase*/
             this.Y = Y;
         }
 
-        public int GetX (){     /*Metodos Getters y Setters*/
+        public int GetX (){                     /*Metodos Getters y Setters*/
             return X;
         }
 

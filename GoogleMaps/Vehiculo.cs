@@ -2,7 +2,7 @@ class Vehiculo{
         private  string Motor;
         private  string Rueda;
         private  float Velocidad;
-        private     Coordenada Posicion;
+        private Coordenada Posicion;
 
         Vehiculo (){
             Motor = "Generico";
