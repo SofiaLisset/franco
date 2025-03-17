@@ -12,14 +12,11 @@ class Coordenada{                               /*Clase*/
         }
 
         public Coordenada (int X, int Y){      /*Constructor sobrecarga*/
-            
             this.X = X;
             this.Y = Y;
-           
-
         }
 
-        public int GetX (){     /*Metodos*/
+        public int GetX (){     /*Metodos Getters y Setters*/
             return X;
         }
 
