@@ -5,12 +5,10 @@ class Vehiculo{
         private     Coordenada Posicion;
 
         Vehiculo (){
-
             Motor = "Generico";
             Rueda = "Generico";
             Velocidad = 0.0f;
             Posicion = new Coordenada (0,0);
-
         }
 	//Falta Constructor sobrecargado :)
 
