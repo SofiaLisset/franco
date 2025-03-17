@@ -12,7 +12,7 @@ class Vehiculo{
         }
 	//Falta Constructor sobrecargado :
     
-    Vehiculo (string motor; float velocidad; Coordenada posicion)
+    Vehiculo (string motor, float velocida, Coordenada posicion)
     {
 
 
