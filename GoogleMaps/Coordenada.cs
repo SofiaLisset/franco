@@ -1,12 +1,12 @@
 ﻿using System.Runtime.InteropServices;
 using System.Security.Cryptography.X509Certificates;
 
-class Coordenada{           /*Clase*/
+class Coordenada{                               /*Clase*/
 
-        private int X;          /*Atributos*/
+        private int X;                          /*Atributos*/
         private int Y;
 
-        public Coordenada (){          /*Constructor por defecto*/
+        public Coordenada (){                   /*Constructor por defecto*/
             X = 0;
             Y = 0;
         }

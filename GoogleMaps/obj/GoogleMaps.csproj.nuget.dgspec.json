@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sofia\\GitHub\\franco\\GoogleMaps\\GoogleMaps.csproj": {}
+    "/home/franco/Escritorio/franco/GoogleMaps/GoogleMaps.csproj": {}
   },
   "projects": {
-    "D:\\Sofia\\GitHub\\franco\\GoogleMaps\\GoogleMaps.csproj": {
+    "/home/franco/Escritorio/franco/GoogleMaps/GoogleMaps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sofia\\GitHub\\franco\\GoogleMaps\\GoogleMaps.csproj",
+        "projectUniqueName": "/home/franco/Escritorio/franco/GoogleMaps/GoogleMaps.csproj",
         "projectName": "GoogleMaps",
-        "projectPath": "D:\\Sofia\\GitHub\\franco\\GoogleMaps\\GoogleMaps.csproj",
-        "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "D:\\Sofia\\GitHub\\franco\\GoogleMaps\\obj\\",
+        "projectPath": "/home/franco/Escritorio/franco/GoogleMaps/GoogleMaps.csproj",
+        "packagesPath": "/home/franco/.nuget/packages/",
+        "outputPath": "/home/franco/Escritorio/franco/GoogleMaps/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/franco/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
