@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoogleMaps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a7c0fb4e3415405264b56244d7b4d8cd0d502ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc300aa9c76bad18fe1b2651780a7b7fa3c470d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoogleMaps")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoogleMaps")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
