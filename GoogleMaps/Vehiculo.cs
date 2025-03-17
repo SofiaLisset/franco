@@ -10,7 +10,7 @@ class Vehiculo{
             Velocidad = 0.0f;
             Posicion = new Coordenada (0,0);
         }
-	//Falta Constructor sobrecargado :
+	//FIXME: Constructor sobrecargado :
     
     Vehiculo (string motor, float velocida, Coordenada posicion)
     {
@@ -18,6 +18,7 @@ class Vehiculo{
         this.Motor = motor;
 
     }
+    //TODO: Setters y Getters para todos los atributos
 
 }
 
