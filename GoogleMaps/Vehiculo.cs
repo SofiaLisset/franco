@@ -12,7 +12,13 @@ class Vehiculo{
             Posicion = new Coordenada (0,0);
 
         }
-	//Falta Constructor sobrecargado :)
+	//Falta Constructor sobrecargado :
+    
+    Vehiculo (string motor; float velocidad; Coordenada posicion)
+    {
+
+
+    }
 
 }
 
