@@ -15,6 +15,7 @@ class Vehiculo{
     Vehiculo (string motor, float velocida, Coordenada posicion)
     {
 
+        this.Motor = motor;
 
     }
 
